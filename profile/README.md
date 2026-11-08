@@ -2,7 +2,7 @@
 
 ZaminMC builds software for the Minecraft ecosystem — a modern server engine, server management tooling, client-side addons, and community resources.
 
-> *Ending the monopoly of the Minecraft ecosystem.*
+> *Adding the missing puzzles!*
 
 ## Public projects
 
